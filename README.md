@@ -1,8 +1,8 @@
 # Brain Tumor Semantic Segmentation
 
 ## Contributors
-- Fuat Arslan
 - Melih Berk Yılmaz
+- Fuat Arslan
 
 
 ## Files Description
@@ -21,7 +21,7 @@
 To set up this project, follow these steps:
 
 ```bash
-git clone https://github.com/fuat-arslan/MRI-Segmentation.git
+git clone https://github.com/MelihBerkY/MRI-Segmentation.git
 cd MRI-Segmentation
 ```
 
